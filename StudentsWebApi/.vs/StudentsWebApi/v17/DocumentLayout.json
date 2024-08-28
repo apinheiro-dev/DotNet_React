@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\service\\userservice\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:service\\userservice\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\service\\studentservice\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:service\\studentservice\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\service\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:service\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\service\\studentservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:service\\studentservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\datacontext\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:datacontext\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|g:\\geral\\alexandre_pinheiro\\processo seletivo\\dotnet_react\\studentswebapi\\migrations\\20240822184649_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8EFAFD-6C8C-4E13-9FFD-9982F33EC06F}|StudentsWebApi.csproj|solutionrelative:migrations\\20240822184649_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T13:47:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:01:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:45:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:57:17.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentInterface.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\StudentService\\IStudentInterface.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService\\IStudentInterface.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\StudentService\\IStudentInterface.cs",
+              "RelativeToolTip": "Service\\StudentService\\IStudentInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:29:35.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:49:32.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:05:36.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T14:54:55.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\UserService\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "Service\\UserService\\IUserInterface.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\UserService\\IUserInterface.cs",
+              "RelativeToolTip": "Service\\UserService\\IUserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:19:46.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService\\UserService.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\UserService\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:45:25.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\StudentService\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService\\StudentService.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Service\\StudentService\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService\\StudentService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwIAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:29:03.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\DataContext\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DataContext\\DataSeeder.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\DataContext\\DataSeeder.cs",
+              "RelativeToolTip": "DataContext\\DataSeeder.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:34:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240822184649_MigracaoInicial.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Migrations\\20240822184649_MigracaoInicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822184649_MigracaoInicial.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Migrations\\20240822184649_MigracaoInicial.cs",
+              "RelativeToolTip": "Migrations\\20240822184649_MigracaoInicial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:46:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:19:08.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\Geral\\Alexandre_Pinheiro\\Processo Seletivo\\DotNet_React\\StudentsWebApi\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:07:56.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

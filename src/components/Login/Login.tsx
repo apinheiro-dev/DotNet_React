@@ -54,20 +54,12 @@ export default function AppLogin() {
 
     <div className={style.AppStyle}>
 
-    {/* // shadow p-3 mb-5 bg-white rounded
-    // d-flex justify-content-center
-    // d-flex flex-column justify-content-center align-items-center */}
-
-{/* "shadow p-3 d-flex flex-column col-md-6 offset-md-3 justify-content-center  align-self-center bg-gray  rounded " */}
-
     <p className={style.TituloPrincipal}>Students App</p>
     <p className={style.SubTitulo}>Seja bem-vindo!</p>
     
     <div className={"shadow p-3 d-flex  col-md-5 justify-content-center  align-self-center bg-light rounded"}>
 
-    
-         
-    {/* container-login form */}
+
       <Form className={""} onSubmit={handleSubmit}>
 
         <p className={style.Titulo}>Faça seu login</p>
@@ -94,7 +86,7 @@ export default function AppLogin() {
           />
         </Form.Group>
 
-            {/* mb-2 */}
+            
         {show ? (
           <Alert
             className={"mx-auto"}

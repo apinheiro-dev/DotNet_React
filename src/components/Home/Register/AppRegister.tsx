@@ -11,7 +11,7 @@ interface AppRegisterProps {
   userToEdit?: User | null;
   onClose: () => void;
 }
-
+ 
 export default function AppRegister({
   getAllStudents,
   userToEdit,

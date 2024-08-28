@@ -6,6 +6,6 @@ export interface User {
     notaMedia: number;
     endereco: string;
     nomePai: string;
-    nomeMae: string;
+    nomeMae: string; 
     dataNascimento: Date;
 }

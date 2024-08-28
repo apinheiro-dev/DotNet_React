@@ -20,7 +20,7 @@ export default function AppHome() {
   const [filterValue, setFilterValue] = useState<string>("");
   const [editingUser, setEditingUser] = useState<User | null>(null);
   const [showRegisterModal, setShowRegisterModal] = useState<boolean>(false);
-
+ 
   const fetchUsers = async () => {
     try {
       const response = await api.get("/api/students", {

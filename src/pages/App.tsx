@@ -47,7 +47,6 @@ const PrivateRoute: React.FC<PrivateRouteProps> = ({ element, path }) => {
 
 };
 
-// ReactDOM.render(<App />, document.getElementById("root"));
 
 ReactDOM.render(
   <React.StrictMode>
